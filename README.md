@@ -53,13 +53,7 @@ Show correlation
 
 Forecast next 12 months
 
-🧾 License
-MIT License © 2025 [Your Name]
 
-yaml
-Copy code
-
----
 
 ## 🪄 Step 5: Initialize Git and push to GitHub
 
