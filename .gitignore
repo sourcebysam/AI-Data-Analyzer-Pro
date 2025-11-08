@@ -1,0 +1,9 @@
+__pycache__/
+*.pyc
+.env
+.DS_Store
+*.csv
+*.xlsx
+*.json
+report.html
+.streamlit/
